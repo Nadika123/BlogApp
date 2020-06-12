@@ -1,0 +1,15 @@
+body{
+	background:#F0FFF0;
+	color:	#696969;
+	margin-top:5rem;
+}
+.navlink{
+	color:white;
+}
+.navlink:hover{
+	color:red;
+}
+
+.content-section{
+	
+}
